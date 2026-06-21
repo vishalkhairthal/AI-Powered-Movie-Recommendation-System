@@ -5,7 +5,7 @@ An end-to-end Movie Recommendation System built using Machine Learning, FastAPI,
 ## 🌐 Live Demo
 
 Frontend (Streamlit)
-https://movie-recommendation-system-frontend-qlxc.onrender.com
+https://movie-recommendation-system-frontend-elxc.onrender.com
 
 Backend API
 https://ai-powered-movie-recommendation-system-ro67.onrender.com
