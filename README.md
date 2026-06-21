@@ -2,6 +2,19 @@
 
 An end-to-end Movie Recommendation System built using Machine Learning, FastAPI, Streamlit, and TMDB API. The application recommends similar movies using TF-IDF Vectorization and Cosine Similarity while providing real-time movie information, posters, genres, and details.
 
+## 🌐 Live Demo
+
+Frontend (Streamlit)
+https://movie-recommendation-system-frontend-qlxc.onrender.com
+
+Backend API
+https://ai-powered-movie-recommendation-system-ro67.onrender.com
+
+API Documentation
+https://ai-powered-movie-recommendation-system-ro67.onrender.com/docs
+
+---
+
 ## 🚀 Features
 
 - Movie search with keyword matching
